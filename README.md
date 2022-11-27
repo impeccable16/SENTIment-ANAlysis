@@ -1,1 +1,1 @@
-# SENTIment-ANAlysis
+# SENTIment-ANALysis
